@@ -45,7 +45,7 @@ Singkatnya: login berhasil karena input dicek, disimpan, lalu diarahkan ke halam
 ## Menambahkan Jadwal di HomePage
 itur penambahan jadwal bekerja karena tiga komponen utama:
 
-##✔ A. Struktur Penyimpanan
+## ✔ A. Struktur Penyimpanan
 
 Aplikasi menyimpan daftar jadwal dalam List:
 
